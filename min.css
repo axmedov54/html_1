@@ -1,0 +1,21 @@
+*{
+    background-color: aqua;
+
+}
+.post img{
+    width: 300px;
+    height: 300px;
+}
+
+.post{
+    text-align: left;
+}
+.ypx img{
+    
+    width: 300px;
+    height: 300px;
+}
+.ypx{
+    padding: 200px;
+    text-align: right
+}
